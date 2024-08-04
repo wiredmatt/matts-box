@@ -1,12 +1,8 @@
-# matts-box
-
-Files and scripts I use in my daily driver.
-
-## Purpose
-
 <div style="width: 100%; display: flex; justify-content: center;">
   <img src="https://miro.medium.com/v2/resize:fit:940/1*pMiyKxU-o6E3uBN-Cttt7w.png" width="300px" style="border-radius: 10px">
 </div>
+
+<br>
 
 > A computer is just a means to an end: productivity. \
 > \
