@@ -2,6 +2,21 @@
 
 Files and scripts I use in my daily driver.
 
+## Purpose
+
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img src="https://miro.medium.com/v2/resize:fit:940/1*pMiyKxU-o6E3uBN-Cttt7w.png" width="300px" style="border-radius: 10px">
+</div>
+
+> A computer is just a means to an end: productivity. \
+> \
+> Be it for work, school, research or hobbies. But that's it. \
+> \
+> For anything else; if you have time to go on social media and weird sites, that means you have the time to be with your family and friends, to go out, to work out, to socialize, to touch grass... To do literally _anything else_, **or just nothing at all!** \
+> \
+> The main goal of this setup is to keep me from falling back to the "habits". \
+> That's why there are so many layers to this, the only way to bypass it is by really wanting to hurt yourself. If you end up you-know-where again, it's 100% on you.
+
 ## Instructions
 
 ### Setup
@@ -26,11 +41,21 @@ cat ~/matts-box/system_files/fallback_dns.conf > /etc/systemd/resolved.conf.d/fa
 
 Of course, your network resolution should work with systemd-resolved. If you use something else, there's surely a way to implement the equivalent of this, gl.
 
+[0](https://www.youtube.com/watch?v=PTAk3EkJtqQ) [1](https://www.yourbrainonporn.com/)
+
+[2](https://www.youtube.com/watch?v=lFnM2RbG8oE) [3](https://www.youtube.com/watch?v=ZuBdNqBM3ao) [4](https://www.youtube.com/watch?v=iADXjkens14) [5](https://www.youtube.com/watch?v=BwqcjElvKPI)
+
+[6](https://www.youtube.com/watch?v=iADXjkens14) [7](https://www.youtube.com/watch?v=1Ya67aLaaCc) [8](https://www.youtube.com/watch?v=Kxljw1hlWX0)
+
+[9](https://www.youtube.com/watch?v=FpOg1C477cQ)
+
 ### Blocking distractions
 
 ```bash
 cat ~/matts-box/system_files/hosts > /etc/hosts
 ```
+
+[1](https://www.youtube.com/watch?v=hIRFiEzmn0Y) [2](https://www.youtube.com/watch?v=qy0LkCJUmkI)
 
 #### NOTE
 
@@ -111,4 +136,4 @@ You can additionally or otherwise make the sudoers file immutable:
 chattr +i /etc/sudoers
 ```
 
-This last approach would be inviolable, but can also get you soft-locked if you also lost the root password.
+This last approach would be inviolable, but can also get you soft-locked if you also lose the root password.
