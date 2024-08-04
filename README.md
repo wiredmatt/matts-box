@@ -1,5 +1,5 @@
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://miro.medium.com/v2/resize:fit:940/1*pMiyKxU-o6E3uBN-Cttt7w.png" width="300px" style="border-radius: 10px">
+<div align="center">
+  <img width="300" src="https://miro.medium.com/v2/resize:fit:940/1*pMiyKxU-o6E3uBN-Cttt7w.png" style="border-radius: 16px"/>
 </div>
 
 <br>
