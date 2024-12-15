@@ -1,0 +1,41 @@
+# Block Twitter
+127.0.0.1 www.twitter.com
+127.0.0.1 twitter.com
+127.0.0.1 www.x.com
+127.0.0.1 x.com
+
+# Block TikTok
+127.0.0.1 www.tiktok.com
+127.0.0.1 tiktok.com
+
+# Block Instagram
+127.0.0.1 www.instagram.com
+127.0.0.1 instagram.com
+
+# Block Reddit
+127.0.0.1 www.reddit.com
+127.0.0.1 reddit.com
+
+# Block Tumblr
+127.0.0.1 www.tumblr.com
+127.0.0.1 tumblr.com
+
+# Block Newgrounds
+127.0.0.1 www.newgrounds.com
+127.0.0.1 newgrounds.com
+
+# Block Snapchat
+127.0.0.1 www.snapchat.com
+127.0.0.1 snapchat.com
+
+# Block Tinder
+127.0.0.1 www.tinder.com
+127.0.0.1 tinder.com
+
+# Block Happn
+127.0.0.1 www.happn.com
+127.0.0.1 happn.com
+
+# Block Bumble
+127.0.0.1 www.bumble.com
+127.0.0.1 bumble.com
